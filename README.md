@@ -68,7 +68,7 @@ This program captures hand landmark data through a webcam and uses machine learn
 
 ## Inference
 
-1. Run the inference script (`inference_classifier.py`).
+1. Run the inference script (`Final_Capstone.ipynb`).
 2. Capture webcam frames and process hand landmark data.
 3. Predict sign language signs in real-time.
 4. Display predictions on the webcam feed.
