@@ -1,7 +1,5 @@
-# SignLanguage
-Sign language in Real Time 
 # Sign Language Recognition Program
-
+Sign language in Real Time 
 This is a program designed to recognize sign language signs using hand landmark data captured from a webcam. It utilizes the MediaPipe library for hand landmark detection and a RandomForestClassifier for machine learning-based sign recognition.
 
 ## Table of Contents
